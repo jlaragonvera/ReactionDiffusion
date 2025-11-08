@@ -1,4 +1,4 @@
-# ReactionDiffusion
+# ReactionDiffusion on curves
 Python code to solve reaction-diffusion equation, with homogeneous and non-homogeneous diffusion coefficient, in evolving curves
 
 The code allows solving reaction-diffusion equations in curves that grow and deform over time, with a non-homogeneous 
